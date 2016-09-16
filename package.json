@@ -1,0 +1,15 @@
+{
+  "name": "0to1",
+  "version": "1.0.0",
+  "description": "Peter Til. 0 to 1.",
+  "main": "run.js",
+  "dependencies": {
+    "epub-gen": "0.0.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Slawa",
+  "license": "ISC"
+}
