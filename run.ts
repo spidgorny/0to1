@@ -97,7 +97,7 @@ class Run {
 			],
 			output: './test.epub',
 		}).promise.then(function (result) {
-			console.log("Ebook Generated Successfully!")
+			console.log("Ebook Generated Successfully!");
 			console.log('result', result);
 		}, function (err) {
 			console.error("Failed to generate Ebook because of ", err)
