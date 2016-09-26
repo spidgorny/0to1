@@ -4,7 +4,8 @@
   "description": "Peter Til. 0 to 1.",
   "main": "run.js",
   "dependencies": {
-    "epub-gen": "0.0.16"
+    "epub-gen": "0.0.16",
+    "moment": "^2.15.0"
   },
   "devDependencies": {},
   "scripts": {

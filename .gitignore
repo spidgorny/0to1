@@ -22,3 +22,6 @@ run.js
 run.js.map
 test.epub
 typings/
+epub-gen.js
+epub-gen.js.map
+/0to1.epub

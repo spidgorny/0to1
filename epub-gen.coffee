@@ -20,7 +20,7 @@ uuid = ->
 		r = Math.random() * 16 | 0
 		return (if c is 'x' then r else r & 0x3 | 0x8).toString(16)
 
-class EPub
+class EPub2
 	constructor: (options, output)->
 		@options = options
 		self = @
